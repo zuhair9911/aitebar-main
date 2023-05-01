@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "etibaar-245f3"
+  },
+  "targets": {
+    "etibaar-245f3": {
+      "hosting": {
+        "aitebar": [
+          "aitebar"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

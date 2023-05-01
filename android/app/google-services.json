@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601786633072",
+    "project_id": "etibaar-245f3",
+    "storage_bucket": "etibaar-245f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601786633072:android:0a8dace30c50f1d09e5db5",
+        "android_client_info": {
+          "package_name": "com.example.etibaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601786633072-rqoq0veebcrldv6a7849d3krpvbs559k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5vu14bSmE-Kwq7IK8AiDs3HBpqyVoYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601786633072-rqoq0veebcrldv6a7849d3krpvbs559k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
